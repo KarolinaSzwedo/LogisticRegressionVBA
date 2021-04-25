@@ -4,7 +4,7 @@ Dodatek umożliwia przeprowadzenie regresji logistycznej oraz następujących te
 - Linktest
 - Test Hosmera-Lemeshowa
 
-Umożliwia również zbdanie mocy predykcyjnej modelu z wykorzystaniem:
+Umożliwia również zbadanie mocy predykcyjnej modelu z wykorzystaniem:
 - Tablicy klasyfikacyjnej
 - Metryk: dokładności, precyzji, wrażliwości i specyficzności.
 
